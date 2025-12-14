@@ -1,12 +1,11 @@
 {
-  "name": "devil",
-  "version": "2.0.0",
-  "description": "",
-  "main": "server.js",
-},
-  "scripts": {
-    "start": "npm start"
-  },
+    "name": "dog",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+          "start": "node server.js"
+    },
   "keywords": [],
   "author": "l",
   "license": "ISC",
@@ -20,4 +19,5 @@
     "axios": "^0.26.1"
   }
 }
+
 
